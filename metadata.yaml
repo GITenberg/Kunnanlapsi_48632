@@ -1,0 +1,37 @@
+_repo: Kunnanlapsi_48632
+alternative_title: Das Gemeindekind. Finnish
+contributor:
+  translator:
+    agent_name: Peltonen, Ester
+    gutenberg_agent_id: '44557'
+    url: http://www.gutenberg.org/2009/agents/44557
+creator:
+  author:
+    agent_name: Ebner-Eschenbach, Marie von
+    aliases:
+    - Eschenbach, Marie Ebner von
+    - Von Ebner-Eschenbach, Marie
+    - Ebner von Eschenbach, Marie, Freifrau
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '35081'
+    url: http://www.gutenberg.org/2009/agents/35081
+    wikipedia: http://en.wikipedia.org/wiki/Marie_von_Ebner-Eschenbach
+description: ''
+gutenberg_issued: '2015-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48632'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Village communities -- Fiction'
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcsh 'Moravia (Czech Republic) -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcc 'PT'
+title: Kunnanlapsi
+url: http://www.gutenberg.org/ebooks/48632
